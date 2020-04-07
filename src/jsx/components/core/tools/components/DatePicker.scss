@@ -1,0 +1,26 @@
+.CalendarDay__selected_span {
+  background: rgba(red, .5);
+  color: white; //text
+  border: 1px solid red;
+
+  &:hover {
+    background: red;
+    color: white;
+    border: 1px solid red;
+  }
+}
+
+.CalendarDay__selected,
+.CalendarDay__hovered_span {
+  background: red;
+  color: white;
+
+  &:hover {
+    background: red;
+    color: white;
+  }
+}
+
+.DateInput_input__focused {
+  border-bottom-color: red;
+}

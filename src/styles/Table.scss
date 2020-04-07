@@ -1,0 +1,18 @@
+.table td {
+  pointer:cursor;
+  font-size: 13px;
+  padding: 0.5rem;
+}
+
+.table th {
+  border-top: none;
+  
+  padding-left: 10px;
+}
+.table thead th {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  border-bottom: 2px solid #4285f4;
+  color: black;
+}

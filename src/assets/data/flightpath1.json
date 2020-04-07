@@ -1,0 +1,2108 @@
+[
+  {
+    "SP_GEOMETRY" : "<e6100000 010d22fd f675e094 40c0cba1 45b6f3d5 62400000 00000041 d040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 262.80000000000001,
+    "longitude" : 150.68561600000001,
+    "latitude" : -33.163077999999999,
+    "point_in_time" : "2018-05-13 23:19:00 +0000",
+    "altitude" : 16644
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010da167 b3ea7395 40c0bc74 931804d6 62400000 00000028 d040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 262.80000000000001,
+    "longitude" : 150.68813599999999,
+    "latitude" : -33.167611000000001,
+    "point_in_time" : "2018-05-13 23:19:04 +0000",
+    "altitude" : 16544
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d832f 4ca60a96 40c02731 08ac1cd6 62400000 0000c00f d040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 263,
+    "longitude" : 150.69062099999999,
+    "latitude" : -33.172158000000003,
+    "point_in_time" : "2018-05-13 23:19:08 +0000",
+    "altitude" : 16447
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d029a 081b9e96 40c01904 560e2dd6 62400000 000000f0 cf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 263.39999999999998,
+    "longitude" : 150.693084,
+    "latitude" : -33.176720000000003,
+    "point_in_time" : "2018-05-13 23:19:12 +0000",
+    "altitude" : 16352
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de561 a1d63497 40c083c0 caa145d6 62400000 000080c1 cf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 264.19999999999999,
+    "longitude" : 150.695539,
+    "latitude" : -33.181296000000003,
+    "point_in_time" : "2018-05-13 23:19:16 +0000",
+    "altitude" : 16259
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc729 3a92cb97 40c07593 180456d6 62400000 00000093 cf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 265.10000000000002,
+    "longitude" : 150.69799800000001,
+    "latitude" : -33.185890000000001,
+    "point_in_time" : "2018-05-13 23:19:20 +0000",
+    "altitude" : 16166
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010daaf1 d24d6298 40c06666 666666d6 62400000 00008064 cf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 266.10000000000002,
+    "longitude" : 150.70047600000001,
+    "latitude" : -33.190502000000002,
+    "point_in_time" : "2018-05-13 23:19:24 +0000",
+    "altitude" : 16073
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8cb9 6b09f998 40c0d122 dbf97ed6 62400000 00000036 cf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 267.30000000000001,
+    "longitude" : 150.702977,
+    "latitude" : -33.195129999999999,
+    "point_in_time" : "2018-05-13 23:19:28 +0000",
+    "altitude" : 15980
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd3de e00b9399 40c03bdf 4f8d97d6 62400000 00008007 cf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 268.30000000000001,
+    "longitude" : 150.705501,
+    "latitude" : -33.199775000000002,
+    "point_in_time" : "2018-05-13 23:19:32 +0000",
+    "altitude" : 15887
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db5a6 79c7299a 40c02db2 9defa7d6 62400000 000080d8 ce40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 269.19999999999999,
+    "longitude" : 150.708046,
+    "latitude" : -33.204434999999997,
+    "point_in_time" : "2018-05-13 23:19:36 +0000",
+    "altitude" : 15793
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfbcb eec9c39a 40c0986e 1283c0d6 62400000 000000a9 ce40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 270,
+    "longitude" : 150.710611,
+    "latitude" : -33.209108999999998,
+    "point_in_time" : "2018-05-13 23:19:40 +0000",
+    "altitude" : 15698
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d41f1 63cc5d9b 40c08941 60e5d0d6 62400000 0000007a ce40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 270.80000000000001,
+    "longitude" : 150.71319299999999,
+    "latitude" : -33.213797,
+    "point_in_time" : "2018-05-13 23:19:44 +0000",
+    "altitude" : 15604
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8716 d9cef79b 40c0f4fd d478e9d6 62400000 0000004a ce40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.39999999999998,
+    "longitude" : 150.71579199999999,
+    "latitude" : -33.218494999999997,
+    "point_in_time" : "2018-05-13 23:19:48 +0000",
+    "altitude" : 15508
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dcd3b 4ed1919c 40c0e5d0 22dbf9d6 62400000 0000801a ce40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.69999999999999,
+    "longitude" : 150.718403,
+    "latitude" : -33.223204000000003,
+    "point_in_time" : "2018-05-13 23:19:52 +0000",
+    "altitude" : 15413
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d1361 c3d32b9d 40c0508d 976e12d7 62400000 000000ea cd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 272.10000000000002,
+    "longitude" : 150.72101799999999,
+    "latitude" : -33.227921000000002,
+    "point_in_time" : "2018-05-13 23:19:56 +0000",
+    "altitude" : 15316
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5986 38d6c59d 40c0ba49 0c022bd7 62400000 000000ba cd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 272.10000000000002,
+    "longitude" : 150.72363200000001,
+    "latitude" : -33.232646000000003,
+    "point_in_time" : "2018-05-13 23:20:00 +0000",
+    "altitude" : 15220
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0309 8a1f639e 40c0ac1c 5a643bd7 62400000 00000089 cd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 272.10000000000002,
+    "longitude" : 150.726237,
+    "latitude" : -33.237377000000002,
+    "point_in_time" : "2018-05-13 23:20:04 +0000",
+    "altitude" : 15122
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d492e ff21fd9e 40c017d9 cef753d7 62400000 00000058 cd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.89999999999998,
+    "longitude" : 150.728825,
+    "latitude" : -33.242111000000001,
+    "point_in_time" : "2018-05-13 23:20:08 +0000",
+    "altitude" : 15024
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8f53 7424979f 40c008ac 1c5a64d7 62400000 00000027 cd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.60000000000002,
+    "longitude" : 150.731391,
+    "latitude" : -33.246848,
+    "point_in_time" : "2018-05-13 23:20:12 +0000",
+    "altitude" : 14926
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d39d6 c56d34a0 40c07368 91ed7cd7 62400000 000080f5 cc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.39999999999998,
+    "longitude" : 150.733935,
+    "latitude" : -33.251586000000003,
+    "point_in_time" : "2018-05-13 23:20:16 +0000",
+    "altitude" : 14827
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7ffb 3a70cea0 40c0643b df4f8dd7 62400000 000000c4 cc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.19999999999999,
+    "longitude" : 150.73646600000001,
+    "latitude" : -33.256326999999999,
+    "point_in_time" : "2018-05-13 23:20:20 +0000",
+    "altitude" : 14728
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d287e 8cb96ba1 40c0cff7 53e3a5d7 62400000 00000093 cc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.19999999999999,
+    "longitude" : 150.738992,
+    "latitude" : -33.261071000000001,
+    "point_in_time" : "2018-05-13 23:20:24 +0000",
+    "altitude" : 14630
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d6ea3 01bc05a2 40c039b4 c876bed7 62400000 00008062 cc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.39999999999998,
+    "longitude" : 150.741524,
+    "latitude" : -33.265816999999998,
+    "point_in_time" : "2018-05-13 23:20:28 +0000",
+    "altitude" : 14533
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d1826 5305a3a2 40c02b87 16d9ced7 62400000 00008032 cc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.60000000000002,
+    "longitude" : 150.744067,
+    "latitude" : -33.270567,
+    "point_in_time" : "2018-05-13 23:20:32 +0000",
+    "altitude" : 14437
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5e4b c8073da3 40c09643 8b6ce7d7 62400000 00000003 cc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.89999999999998,
+    "longitude" : 150.746633,
+    "latitude" : -33.275320000000001,
+    "point_in_time" : "2018-05-13 23:20:36 +0000",
+    "altitude" : 14342
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d07ce 1951daa3 40c08716 d9cef7d7 62400000 000000d5 cb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 272.10000000000002,
+    "longitude" : 150.74922100000001,
+    "latitude" : -33.280076000000001,
+    "point_in_time" : "2018-05-13 23:20:40 +0000",
+    "altitude" : 14250
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4df3 8e5374a4 40c0f2d2 4d6210d8 62400000 000000a7 cb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 272.30000000000001,
+    "longitude" : 150.751824,
+    "latitude" : -33.284835999999999,
+    "point_in_time" : "2018-05-13 23:20:44 +0000",
+    "altitude" : 14158
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010df775 e09c11a5 40c0e3a5 9bc420d8 62400000 00000079 cb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 272.10000000000002,
+    "longitude" : 150.75443100000001,
+    "latitude" : -33.289596000000003,
+    "point_in_time" : "2018-05-13 23:20:48 +0000",
+    "altitude" : 14066
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010da1f8 31e6aea5 40c04e62 105839d8 62400000 0000804a cb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.89999999999998,
+    "longitude" : 150.75703799999999,
+    "latitude" : -33.294356000000001,
+    "point_in_time" : "2018-05-13 23:20:52 +0000",
+    "altitude" : 13973
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de71d a7e848a6 40c0b81e 85eb51d8 62400000 0000001b cb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 271.60000000000002,
+    "longitude" : 150.75963400000001,
+    "latitude" : -33.299115,
+    "point_in_time" : "2018-05-13 23:20:56 +0000",
+    "altitude" : 13878
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d90a0 f831e6a6 40c0aaf1 d24d62d8 62400000 000000eb ca40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 270.80000000000001,
+    "longitude" : 150.76221200000001,
+    "latitude" : -33.303871000000001,
+    "point_in_time" : "2018-05-13 23:21:00 +0000",
+    "altitude" : 13782
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd6c5 6d3480a7 40c014ae 47e17ad8 62400000 000000b9 ca40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 270.19999999999999,
+    "longitude" : 150.764769,
+    "latitude" : -33.308622,
+    "point_in_time" : "2018-05-13 23:21:04 +0000",
+    "altitude" : 13682
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8048 bf7d1da8 40c00681 95438bd8 62400000 00000087 ca40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 269.39999999999998,
+    "longitude" : 150.76730699999999,
+    "latitude" : -33.313366000000002,
+    "point_in_time" : "2018-05-13 23:21:08 +0000",
+    "altitude" : 13582
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc66d 3480b7a8 40c0713d 0ad7a3d8 62400000 00008054 ca40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 268.39999999999998,
+    "longitude" : 150.76982899999999,
+    "latitude" : -33.318100000000001,
+    "point_in_time" : "2018-05-13 23:21:12 +0000",
+    "altitude" : 13481
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0c93 a98251a9 40c06210 5839b4d8 62400000 00008022 ca40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 267.30000000000001,
+    "longitude" : 150.77233799999999,
+    "latitude" : -33.32282,
+    "point_in_time" : "2018-05-13 23:21:16 +0000",
+    "altitude" : 13381
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d52b8 1e85eba9 40c0cdcc ccccccd8 62400000 000080f1 c940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 266.10000000000002,
+    "longitude" : 150.77483599999999,
+    "latitude" : -33.327523999999997,
+    "point_in_time" : "2018-05-13 23:21:20 +0000",
+    "altitude" : 13283
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d98dd 938785aa 40c0be9f 1a2fddd8 62400000 000000c2 c940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 264.89999999999998,
+    "longitude" : 150.77732599999999,
+    "latitude" : -33.332210000000003,
+    "point_in_time" : "2018-05-13 23:21:24 +0000",
+    "altitude" : 13188
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dde02 098a1fab 40c0295c 8fc2f5d8 62400000 00000094 c940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 263.80000000000001,
+    "longitude" : 150.77981,
+    "latitude" : -33.336875999999997,
+    "point_in_time" : "2018-05-13 23:21:28 +0000",
+    "altitude" : 13096
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc1ca a145b6ab 40c01b2f dd2406d9 62400000 00008067 c940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 262.60000000000002,
+    "longitude" : 150.78228799999999,
+    "latitude" : -33.341523000000002,
+    "point_in_time" : "2018-05-13 23:21:32 +0000",
+    "altitude" : 13007
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d07f0 164850ac 40c085eb 51b81ed9 62400000 0000003b c940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 261.60000000000002,
+    "longitude" : 150.784764,
+    "latitude" : -33.346153999999999,
+    "point_in_time" : "2018-05-13 23:21:36 +0000",
+    "altitude" : 12918
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de9b7 af03e7ac 40c077be 9f1a2fd9 62400000 0000800f c940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 260.69999999999999,
+    "longitude" : 150.787238,
+    "latitude" : -33.350768000000002,
+    "point_in_time" : "2018-05-13 23:21:40 +0000",
+    "altitude" : 12831
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dcc7f 48bf7dad 40c0e17a 14ae47d9 62400000 000000e4 c840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 259.69999999999999,
+    "longitude" : 150.78971100000001,
+    "latitude" : -33.355364999999999,
+    "point_in_time" : "2018-05-13 23:21:44 +0000",
+    "altitude" : 12744
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4bea 043411ae 40c0d34d 621058d9 62400000 000000b8 c840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 258.69999999999999,
+    "longitude" : 150.79218399999999,
+    "latitude" : -33.359949999999998,
+    "point_in_time" : "2018-05-13 23:21:48 +0000",
+    "altitude" : 12656
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d2db2 9defa7ae 40c03d0a d7a370d9 62400000 0000808a c840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 258.10000000000002,
+    "longitude" : 150.794656,
+    "latitude" : -33.364522999999998,
+    "point_in_time" : "2018-05-13 23:21:52 +0000",
+    "altitude" : 12565
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d107a 36ab3eaf 40c02fdd 240681d9 62400000 0000005c c840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 257.60000000000002,
+    "longitude" : 150.797123,
+    "latitude" : -33.369087999999998,
+    "point_in_time" : "2018-05-13 23:21:56 +0000",
+    "altitude" : 12472
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8fe4 f21fd2af 40c09a99 999999d9 62400000 0000002a c840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 257.19999999999999,
+    "longitude" : 150.79957899999999,
+    "latitude" : -33.373649999999998,
+    "point_in_time" : "2018-05-13 23:22:00 +0000",
+    "altitude" : 12372
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d71ac 8bdb68b0 40c08b6c e7fba9d9 62400000 000080f4 c740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 256.80000000000001,
+    "longitude" : 150.80202399999999,
+    "latitude" : -33.378211,
+    "point_in_time" : "2018-05-13 23:22:04 +0000",
+    "altitude" : 12265
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5474 2497ffb0 40c07d3f 355ebad9 62400000 000000bb c740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 256.60000000000002,
+    "longitude" : 150.80444900000001,
+    "latitude" : -33.382773999999998,
+    "point_in_time" : "2018-05-13 23:22:08 +0000",
+    "altitude" : 12150
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd3de e00b93b1 40c0e7fb a9f1d2d9 62400000 0000807b c740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 256.60000000000002,
+    "longitude" : 150.80685399999999,
+    "latitude" : -33.387343999999999,
+    "point_in_time" : "2018-05-13 23:22:12 +0000",
+    "altitude" : 12023
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db5a6 79c729b2 40c0d9ce f753e3d9 62400000 00000037 c740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 257,
+    "longitude" : 150.80923899999999,
+    "latitude" : -33.391927000000003,
+    "point_in_time" : "2018-05-13 23:22:16 +0000",
+    "altitude" : 11886
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d986e 1283c0b2 40c0448b 6ce7fbd9 62400000 000000ef c640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 257.80000000000001,
+    "longitude" : 150.81161599999999,
+    "latitude" : -33.396526000000001,
+    "point_in_time" : "2018-05-13 23:22:20 +0000",
+    "altitude" : 11742
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7a36 ab3e57b3 40c0355e ba490cda 62400000 000080a4 c640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 258.69999999999999,
+    "longitude" : 150.81399500000001,
+    "latitude" : -33.401145,
+    "point_in_time" : "2018-05-13 23:22:24 +0000",
+    "altitude" : 11593
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc05b 2041f1b3 40c02731 08ac1cda 62400000 00000059 c640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 260.30000000000001,
+    "longitude" : 150.816385,
+    "latitude" : -33.405793000000003,
+    "point_in_time" : "2018-05-13 23:22:28 +0000",
+    "altitude" : 11442
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0681 95438bb4 40c091ed 7c3f35da 62400000 0000000e c640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 262,
+    "longitude" : 150.81879599999999,
+    "latitude" : -33.410471000000001,
+    "point_in_time" : "2018-05-13 23:22:32 +0000",
+    "altitude" : 11292
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4ca6 0a4625b5 40c083c0 caa145da 62400000 000000c5 c540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 264.19999999999999,
+    "longitude" : 150.82123899999999,
+    "latitude" : -33.415185000000001,
+    "point_in_time" : "2018-05-13 23:22:36 +0000",
+    "altitude" : 11146
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d92cb 7f48bfb5 40c0ee7c 3f355eda 62400000 0000807e c540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 265.5,
+    "longitude" : 150.823712,
+    "latitude" : -33.419933999999998,
+    "point_in_time" : "2018-05-13 23:22:40 +0000",
+    "altitude" : 11005
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d3c4e d1915cb6 40c0df4f 8d976eda 62400000 0000803b c540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 266.10000000000002,
+    "longitude" : 150.82620299999999,
+    "latitude" : -33.424705000000003,
+    "point_in_time" : "2018-05-13 23:22:44 +0000",
+    "altitude" : 10871
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de5d0 22dbf9b6 40c04a0c 022b87da 62400000 000080fb c440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 266.10000000000002,
+    "longitude" : 150.828698,
+    "latitude" : -33.429484000000002,
+    "point_in_time" : "2018-05-13 23:22:48 +0000",
+    "altitude" : 10743
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8f53 742497b7 40c03bdf 4f8d97da 62400000 000080bf c440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 265.30000000000001,
+    "longitude" : 150.831185,
+    "latitude" : -33.434260999999999,
+    "point_in_time" : "2018-05-13 23:22:52 +0000",
+    "altitude" : 10623
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd578 e92631b8 40c0a69b c420b0da 62400000 00000087 c440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 263.80000000000001,
+    "longitude" : 150.833653,
+    "latitude" : -33.439022999999999,
+    "point_in_time" : "2018-05-13 23:22:56 +0000",
+    "altitude" : 10510
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7ffb 3a70ceb8 40c0986e 1283c0da 62400000 00000053 c440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 261.39999999999998,
+    "longitude" : 150.83608699999999,
+    "latitude" : -33.443758000000003,
+    "point_in_time" : "2018-05-13 23:23:00 +0000",
+    "altitude" : 10406
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc520 b07268b9 40c08941 60e5d0da 62400000 00000023 c440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 259.30000000000001,
+    "longitude" : 150.83848699999999,
+    "latitude" : -33.448461999999999,
+    "point_in_time" : "2018-05-13 23:23:04 +0000",
+    "altitude" : 10310
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010da7e8 482effb9 40c0f4fd d478e9da 62400000 000080f6 c340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 257.19999999999999,
+    "longitude" : 150.840855,
+    "latitude" : -33.453131999999997,
+    "point_in_time" : "2018-05-13 23:23:08 +0000",
+    "altitude" : 10221
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010ded0d be3099ba 40c0e5d0 22dbf9da 62400000 000000cc c340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 255.19999999999999,
+    "longitude" : 150.843197,
+    "latitude" : -33.457774000000001,
+    "point_in_time" : "2018-05-13 23:23:12 +0000",
+    "altitude" : 10136
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd0d5 56ec2fbb 40c0508d 976e12db 62400000 000000a4 c340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 253.5,
+    "longitude" : 150.845518,
+    "latitude" : -33.462386000000002,
+    "point_in_time" : "2018-05-13 23:23:16 +0000",
+    "altitude" : 10056
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db29d efa7c6bb 40c04260 e5d022db 62400000 0000807c c340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 251.90000000000001,
+    "longitude" : 150.847825,
+    "latitude" : -33.466971000000001,
+    "point_in_time" : "2018-05-13 23:23:20 +0000",
+    "altitude" : 9977
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d3108 ac1c5abc 40c03333 333333db 62400000 00008055 c340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 250.40000000000001,
+    "longitude" : 150.850121,
+    "latitude" : -33.471530000000001,
+    "point_in_time" : "2018-05-13 23:23:24 +0000",
+    "altitude" : 9899
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d14d0 44d8f0bc 40c02506 819543db 62400000 0000802e c340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 249,
+    "longitude" : 150.85241099999999,
+    "latitude" : -33.476064999999998,
+    "point_in_time" : "2018-05-13 23:23:28 +0000",
+    "altitude" : 9821
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d933a 014d84bd 40c08fc2 f5285cdb 62400000 00008007 c340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 247.80000000000001,
+    "longitude" : 150.85469599999999,
+    "latitude" : -33.480581999999998,
+    "point_in_time" : "2018-05-13 23:23:32 +0000",
+    "altitude" : 9743
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d12a5 bdc117be 40c08195 438b6cdb 62400000 000080df c240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 246.90000000000001,
+    "longitude" : 150.856977,
+    "latitude" : -33.485083000000003,
+    "point_in_time" : "2018-05-13 23:23:36 +0000",
+    "altitude" : 9663
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d910f 7a36abbe 40c07368 91ed7cdb 62400000 000000b6 c240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 246.30000000000001,
+    "longitude" : 150.85925800000001,
+    "latitude" : -33.489573,
+    "point_in_time" : "2018-05-13 23:23:40 +0000",
+    "altitude" : 9580
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d107a 36ab3ebf 40c0dd24 068195db 62400000 0000008c c240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 245.69999999999999,
+    "longitude" : 150.861536,
+    "latitude" : -33.494053999999998,
+    "point_in_time" : "2018-05-13 23:23:44 +0000",
+    "altitude" : 9496
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d2b87 16d9cebf 40c0cff7 53e3a5db 62400000 00000060 c240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 245.30000000000001,
+    "longitude" : 150.86381600000001,
+    "latitude" : -33.498531999999997,
+    "point_in_time" : "2018-05-13 23:23:48 +0000",
+    "altitude" : 9408
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010daaf1 d24d62c0 40c0c1ca a145b6db 62400000 00008032 c240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 244.90000000000001,
+    "longitude" : 150.86609300000001,
+    "latitude" : -33.503005999999999,
+    "point_in_time" : "2018-05-13 23:23:52 +0000",
+    "altitude" : 9317
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d295c 8fc2f5c0 40c0b29d efa7c6db 62400000 00008004 c240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 244.30000000000001,
+    "longitude" : 150.86836099999999,
+    "latitude" : -33.507477000000002,
+    "point_in_time" : "2018-05-13 23:23:56 +0000",
+    "altitude" : 9225
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4469 6ff085c1 40c01d5a 643bdfdb 62400000 000000d6 c140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 243.59999999999999,
+    "longitude" : 150.87061499999999,
+    "latitude" : -33.511938999999998,
+    "point_in_time" : "2018-05-13 23:24:00 +0000",
+    "altitude" : 9132
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc3d3 2b6519c2 40c00e2d b29defdb 62400000 000000a8 c140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 242.59999999999999,
+    "longitude" : 150.87284600000001,
+    "latitude" : -33.516390999999999,
+    "point_in_time" : "2018-05-13 23:24:04 +0000",
+    "altitude" : 9040
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010ddfe0 0b93a9c2 40c00000 000000dc 62400000 0000807a c140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 241.40000000000001,
+    "longitude" : 150.87504999999999,
+    "latitude" : -33.520831999999999,
+    "point_in_time" : "2018-05-13 23:24:08 +0000",
+    "altitude" : 8949
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5e4b c8073dc3 40c0f2d2 4d6210dc 62400000 0000804e c140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 240.09999999999999,
+    "longitude" : 150.877218,
+    "latitude" : -33.525258999999998,
+    "point_in_time" : "2018-05-13 23:24:12 +0000",
+    "altitude" : 8861
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7958 a835cdc3 40c0e3a5 9bc420dc 62400000 00008024 c140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 239.09999999999999,
+    "longitude" : 150.87934999999999,
+    "latitude" : -33.529673000000003,
+    "point_in_time" : "2018-05-13 23:24:16 +0000",
+    "altitude" : 8777
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9565 88635dc4 40c0d578 e92631dc 62400000 000000fb c040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 238.09999999999999,
+    "longitude" : 150.88145299999999,
+    "latitude" : -33.534075000000001,
+    "point_in_time" : "2018-05-13 23:24:20 +0000",
+    "altitude" : 8694
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db072 6891edc4 40c03f35 5eba49dc 62400000 000080d2 c040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 237.5,
+    "longitude" : 150.88352800000001,
+    "latitude" : -33.538469999999997,
+    "point_in_time" : "2018-05-13 23:24:24 +0000",
+    "altitude" : 8613
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dcc7f 48bf7dc5 40c03108 ac1c5adc 62400000 000080aa c040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 237,
+    "longitude" : 150.885581,
+    "latitude" : -33.542861000000002,
+    "point_in_time" : "2018-05-13 23:24:28 +0000",
+    "altitude" : 8533
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de78c 28ed0dc6 40c023db f97e6adc 62400000 00008082 c040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 236.80000000000001,
+    "longitude" : 150.88761700000001,
+    "latitude" : -33.547252,
+    "point_in_time" : "2018-05-13 23:24:32 +0000",
+    "altitude" : 8453
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9f3c 2cd49ac6 40c014ae 47e17adc 62400000 0000005a c040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 236.80000000000001,
+    "longitude" : 150.88963799999999,
+    "latitude" : -33.551644000000003,
+    "point_in_time" : "2018-05-13 23:24:36 +0000",
+    "altitude" : 8372
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dba49 0c022bc7 40c00681 95438bdc 62400000 00000031 c040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 236.59999999999999,
+    "longitude" : 150.89165,
+    "latitude" : -33.556041,
+    "point_in_time" : "2018-05-13 23:24:40 +0000",
+    "altitude" : 8290
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd656 ec2fbbc7 40c0f853 e3a59bdc 62400000 00000007 c040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 236.19999999999999,
+    "longitude" : 150.89365000000001,
+    "latitude" : -33.560434999999998,
+    "point_in_time" : "2018-05-13 23:24:44 +0000",
+    "altitude" : 8206
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010df163 cc5d4bc8 40c0e926 3108acdc 62400000 000000bb bf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 235.80000000000001,
+    "longitude" : 150.89563899999999,
+    "latitude" : -33.564825999999996,
+    "point_in_time" : "2018-05-13 23:24:48 +0000",
+    "altitude" : 8123
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0d71 ac8bdbc8 40c0dbf9 7e6abcdc 62400000 00000067 bf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 235.19999999999999,
+    "longitude" : 150.89761799999999,
+    "latitude" : -33.569209000000001,
+    "point_in_time" : "2018-05-13 23:24:52 +0000",
+    "altitude" : 8039
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d287e 8cb96bc9 40c0cdcc ccccccdc 62400000 00000013 bf40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 234.40000000000001,
+    "longitude" : 150.899586,
+    "latitude" : -33.573582000000002,
+    "point_in_time" : "2018-05-13 23:24:56 +0000",
+    "altitude" : 7955
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de02d 90a0f8c9 40c0be9f 1a2fdddc 62400000 000000c0 be40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 233.5,
+    "longitude" : 150.901546,
+    "latitude" : -33.577941000000003,
+    "point_in_time" : "2018-05-13 23:25:00 +0000",
+    "altitude" : 7872
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfb3a 70ce88ca 40c03789 4160e5dc 62400000 0000006d be40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 232.69999999999999,
+    "longitude" : 150.90349399999999,
+    "latitude" : -33.582286000000003,
+    "point_in_time" : "2018-05-13 23:25:04 +0000",
+    "altitude" : 7789
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db3ea 73b515cb 40c0295c 8fc2f5dc 62400000 0000001a be40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 231.90000000000001,
+    "longitude" : 150.905429,
+    "latitude" : -33.586616999999997,
+    "point_in_time" : "2018-05-13 23:25:08 +0000",
+    "altitude" : 7706
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d6b9a 779ca2cb 40c01b2f dd2406dd 62400000 000000c8 bd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 231.30000000000001,
+    "longitude" : 150.90734599999999,
+    "latitude" : -33.590936999999997,
+    "point_in_time" : "2018-05-13 23:25:12 +0000",
+    "altitude" : 7624
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d234a 7b832fcc 40c00c02 2b8716dd 62400000 00000076 bd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 230.5,
+    "longitude" : 150.909244,
+    "latitude" : -33.595249000000003,
+    "point_in_time" : "2018-05-13 23:25:16 +0000",
+    "altitude" : 7542
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d3f57 5bb1bfcc 40c0fed4 78e926dd 62400000 00000025 bd40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 230.19999999999999,
+    "longitude" : 150.91112000000001,
+    "latitude" : -33.599550999999998,
+    "point_in_time" : "2018-05-13 23:25:20 +0000",
+    "altitude" : 7461
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d93a9 825149cd 40c0f0a7 c64b37dd 62400000 000000d3 bc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.59999999999999,
+    "longitude" : 150.912969,
+    "latitude" : -33.603847999999999,
+    "point_in_time" : "2018-05-13 23:25:24 +0000",
+    "altitude" : 7379
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4b59 8638d6cd 40c0e17a 14ae47dd 62400000 00000082 bc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.40000000000001,
+    "longitude" : 150.914794,
+    "latitude" : -33.608139999999999,
+    "point_in_time" : "2018-05-13 23:25:28 +0000",
+    "altitude" : 7298
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0309 8a1f63ce 40c0d34d 621058dd 62400000 00000030 bc40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.19999999999999,
+    "longitude" : 150.91659300000001,
+    "latitude" : -33.612431000000001,
+    "point_in_time" : "2018-05-13 23:25:32 +0000",
+    "altitude" : 7216
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dbbb8 8d06f0ce 40c04c37 894160dd 62400000 000000df bb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229,
+    "longitude" : 150.91836699999999,
+    "latitude" : -33.616720000000001,
+    "point_in_time" : "2018-05-13 23:25:36 +0000",
+    "altitude" : 7135
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7368 91ed7ccf 40c03d0a d7a370dd 62400000 0000008d bb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.19999999999999,
+    "longitude" : 150.920118,
+    "latitude" : -33.621012999999998,
+    "point_in_time" : "2018-05-13 23:25:40 +0000",
+    "altitude" : 7053
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d2b18 95d409d0 40c02fdd 240681dd 62400000 0000003b bb40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.19999999999999,
+    "longitude" : 150.92184599999999,
+    "latitude" : -33.625306999999999,
+    "point_in_time" : "2018-05-13 23:25:44 +0000",
+    "altitude" : 6971
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de3c7 98bb96d0 40c021b0 726891dd 62400000 000000ea ba40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.59999999999999,
+    "longitude" : 150.923551,
+    "latitude" : -33.629607,
+    "point_in_time" : "2018-05-13 23:25:48 +0000",
+    "altitude" : 6890
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9a77 9ca223d1 40c09a99 999999dd 62400000 00000098 ba40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.80000000000001,
+    "longitude" : 150.925239,
+    "latitude" : -33.633910999999998,
+    "point_in_time" : "2018-05-13 23:25:52 +0000",
+    "altitude" : 6808
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5227 a089b0d1 40c08b6c e7fba9dd 62400000 00000046 ba40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.80000000000001,
+    "longitude" : 150.92691600000001,
+    "latitude" : -33.638213999999998,
+    "point_in_time" : "2018-05-13 23:25:56 +0000",
+    "altitude" : 6726
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0ad7 a3703dd2 40c07d3f 355ebadd 62400000 000000f4 b940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.59999999999999,
+    "longitude" : 150.92859000000001,
+    "latitude" : -33.642510000000001,
+    "point_in_time" : "2018-05-13 23:26:00 +0000",
+    "altitude" : 6644
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc286 a757cad2 40c0f628 5c8fc2dd 62400000 000000a2 b940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229.40000000000001,
+    "longitude" : 150.93026800000001,
+    "latitude" : -33.646796000000002,
+    "point_in_time" : "2018-05-13 23:26:04 +0000",
+    "altitude" : 6562
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7a36 ab3e57d3 40c0e7fb a9f1d2dd 62400000 00000051 b940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 229,
+    "longitude" : 150.93195800000001,
+    "latitude" : -33.651065000000003,
+    "point_in_time" : "2018-05-13 23:26:08 +0000",
+    "altitude" : 6481
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dce88 d2dee0d3 40c0d9ce f753e3dd 62400000 00000000 b940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 228.40000000000001,
+    "longitude" : 150.93366599999999,
+    "latitude" : -33.655313999999997,
+    "point_in_time" : "2018-05-13 23:26:12 +0000",
+    "altitude" : 6400
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d23db f97e6ad4 40c052b8 1e85ebdd 62400000 000000af b840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 227.59999999999999,
+    "longitude" : 150.935382,
+    "latitude" : -33.659537999999998,
+    "point_in_time" : "2018-05-13 23:26:16 +0000",
+    "altitude" : 6319
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d772d 211ff4d4 40c0448b 6ce7fbdd 62400000 0000005f b840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 226.5,
+    "longitude" : 150.93707900000001,
+    "latitude" : -33.663739,
+    "point_in_time" : "2018-05-13 23:26:20 +0000",
+    "altitude" : 6239
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dcc7f 48bf7dd5 40c0355e ba490cde 62400000 0000000f b840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 225.30000000000001,
+    "longitude" : 150.93872999999999,
+    "latitude" : -33.667915999999998,
+    "point_in_time" : "2018-05-13 23:26:24 +0000",
+    "altitude" : 6159
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d20d2 6f5f07d6 40c0ae47 e17a14de 62400000 000000c0 b740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 223.5,
+    "longitude" : 150.94030599999999,
+    "latitude" : -33.672066999999998,
+    "point_in_time" : "2018-05-13 23:26:28 +0000",
+    "altitude" : 6080
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d11c7 bab88dd6 40c0a01a 2fdd24de 62400000 00000071 b740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 221.80000000000001,
+    "longitude" : 150.94178299999999,
+    "latitude" : -33.676195999999997,
+    "point_in_time" : "2018-05-13 23:26:32 +0000",
+    "altitude" : 6001
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d02bc 051214d7 40c01904 560e2dde 62400000 00000024 b740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 219.80000000000001,
+    "longitude" : 150.94313399999999,
+    "latitude" : -33.680298999999998,
+    "point_in_time" : "2018-05-13 23:26:36 +0000",
+    "altitude" : 5924
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010df2b0 506b9ad7 40c091ed 7c3f35de 62400000 000000d7 b640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 217.90000000000001,
+    "longitude" : 150.94437199999999,
+    "latitude" : -33.684373000000001,
+    "point_in_time" : "2018-05-13 23:26:40 +0000",
+    "altitude" : 5847
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8048 bf7d1dd8 40c083c0 caa145de 62400000 0000008b b640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 216,
+    "longitude" : 150.94554099999999,
+    "latitude" : -33.688409999999998,
+    "point_in_time" : "2018-05-13 23:26:44 +0000",
+    "altitude" : 5771
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0de0 2d90a0d8 40c0fca9 f1d24dde 62400000 00000040 b640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 213.80000000000001,
+    "longitude" : 150.94669200000001,
+    "latitude" : -33.692399000000002,
+    "point_in_time" : "2018-05-13 23:26:48 +0000",
+    "altitude" : 5696
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d371a c05b20d9 40c07593 180456de 62400000 000000f6 b540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 211.90000000000001,
+    "longitude" : 150.94787099999999,
+    "latitude" : -33.696328999999999,
+    "point_in_time" : "2018-05-13 23:26:52 +0000",
+    "altitude" : 5622
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d6154 5227a0d9 40c0ee7c 3f355ede 62400000 000000ad b540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 209.69999999999999,
+    "longitude" : 150.949128,
+    "latitude" : -33.700192999999999,
+    "point_in_time" : "2018-05-13 23:26:56 +0000",
+    "altitude" : 5549
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d2731 08ac1cda 40c0df4f 8d976ede 62400000 00000064 b540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 208.19999999999999,
+    "longitude" : 150.950503,
+    "latitude" : -33.703980000000001,
+    "point_in_time" : "2018-05-13 23:27:00 +0000",
+    "altitude" : 5476
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8ab0 e1e995da 40c05839 b4c876de 62400000 0000001b b540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 206.80000000000001,
+    "longitude" : 150.95199600000001,
+    "latitude" : -33.707692999999999,
+    "point_in_time" : "2018-05-13 23:27:04 +0000",
+    "altitude" : 5403
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dec2f bb270fdb 40c04a0c 022b87de 62400000 000000d3 b440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 205.90000000000001,
+    "longitude" : 150.95355000000001,
+    "latitude" : -33.711353000000003,
+    "point_in_time" : "2018-05-13 23:27:08 +0000",
+    "altitude" : 5331
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dec51 b81e85db 40c0c3f5 285c8fde 62400000 0000008b b440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 205.30000000000001,
+    "longitude" : 150.95510899999999,
+    "latitude" : -33.714978000000002,
+    "point_in_time" : "2018-05-13 23:27:12 +0000",
+    "altitude" : 5259
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010deb73 b515fbdb 40c0b4c8 76be9fde 62400000 00000043 b440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 204.90000000000001,
+    "longitude" : 150.95661899999999,
+    "latitude" : -33.718587999999997,
+    "point_in_time" : "2018-05-13 23:27:16 +0000",
+    "altitude" : 5187
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dea95 b20c71dc 40c02db2 9defa7de 62400000 000000fb b340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 204.69999999999999,
+    "longitude" : 150.95802,
+    "latitude" : -33.722205000000002,
+    "point_in_time" : "2018-05-13 23:27:20 +0000",
+    "altitude" : 5115
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de9b7 af03e7dc 40c0a69b c420b0de 62400000 000000b3 b340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 204.90000000000001,
+    "longitude" : 150.959261,
+    "latitude" : -33.725845,
+    "point_in_time" : "2018-05-13 23:27:24 +0000",
+    "altitude" : 5043
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4c37 894160dd 40c01f85 eb51b8de 62400000 0000006b b340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 204.09999999999999,
+    "longitude" : 150.960283,
+    "latitude" : -33.729511000000002,
+    "point_in_time" : "2018-05-13 23:27:28 +0000",
+    "altitude" : 4971
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010daeb6 627fd9dd 40c0986e 1283c0de 62400000 00000022 b340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 202.40000000000001,
+    "longitude" : 150.96103199999999,
+    "latitude" : -33.733182999999997,
+    "point_in_time" : "2018-05-13 23:27:32 +0000",
+    "altitude" : 4898
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010daed8 5f764fde 40c0986e 1283c0de 62400000 000000d9 b240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 200.19999999999999,
+    "longitude" : 150.961454,
+    "latitude" : -33.736843999999998,
+    "point_in_time" : "2018-05-13 23:27:36 +0000",
+    "altitude" : 4825
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d1058 39b4c8de 40c0986e 1283c0de 62400000 0000008f b240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 198.09999999999999,
+    "longitude" : 150.96149399999999,
+    "latitude" : -33.740473999999999,
+    "point_in_time" : "2018-05-13 23:27:40 +0000",
+    "altitude" : 4751
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d107a 36ab3edf 40c0986e 1283c0de 62400000 00000045 b240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 196.90000000000001,
+    "longitude" : 150.961097,
+    "latitude" : -33.744056999999998,
+    "point_in_time" : "2018-05-13 23:27:44 +0000",
+    "altitude" : 4677
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dab3e 575bb1df 40c01f85 eb51b8de 62400000 000000fb b140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 197.30000000000001,
+    "longitude" : 150.96021099999999,
+    "latitude" : -33.747574,
+    "point_in_time" : "2018-05-13 23:27:48 +0000",
+    "altitude" : 4603
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de3a5 9bc420e0 40c0a69b c420b0de 62400000 000000b0 b140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 198.5,
+    "longitude" : 150.95882,
+    "latitude" : -33.751001000000002,
+    "point_in_time" : "2018-05-13 23:27:52 +0000",
+    "altitude" : 4528
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db8af 03e78ce0 40c0b4c8 76be9fde 62400000 00000065 b140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 199.80000000000001,
+    "longitude" : 150.95694900000001,
+    "latitude" : -33.754303999999998,
+    "point_in_time" : "2018-05-13 23:27:56 +0000",
+    "altitude" : 4453
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc5fe b27bf2e0 40c0c3f5 285c8fde 62400000 0000001a b140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 201.40000000000001,
+    "longitude" : 150.95461900000001,
+    "latitude" : -33.757449000000001,
+    "point_in_time" : "2018-05-13 23:28:00 +0000",
+    "altitude" : 4378
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d6ff0 85c954e1 40c05839 b4c876de 62400000 000000cf b040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 203.30000000000001,
+    "longitude" : 150.951854,
+    "latitude" : -33.760399,
+    "point_in_time" : "2018-05-13 23:28:04 +0000",
+    "altitude" : 4303
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010defc9 c342ade1 40c0ee7c 3f355ede 62400000 00000084 b040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 205.69999999999999,
+    "longitude" : 150.948679,
+    "latitude" : -33.763122000000003,
+    "point_in_time" : "2018-05-13 23:28:08 +0000",
+    "altitude" : 4228
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010da7e8 482effe1 40c00ad7 a3703dde 62400000 00000039 b040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 208.59999999999999,
+    "longitude" : 150.94511900000001,
+    "latitude" : -33.765580999999997,
+    "point_in_time" : "2018-05-13 23:28:12 +0000",
+    "altitude" : 4153
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d35ef 384547e2 40c02731 08ac1cde 62400000 000000dc af40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 211.69999999999999,
+    "longitude" : 150.94123400000001,
+    "latitude" : -33.767792999999998,
+    "point_in_time" : "2018-05-13 23:28:16 +0000",
+    "altitude" : 4078
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfb3a 70ce88e2 40c0448b 6ce7fbdd 62400000 00000048 af40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 213.80000000000001,
+    "longitude" : 150.93712500000001,
+    "latitude" : -33.769812000000002,
+    "point_in_time" : "2018-05-13 23:28:20 +0000",
+    "altitude" : 4004
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5f29 cb10c7e2 40c060e5 d022dbdd 62400000 000000b6 ae40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 214.19999999999999,
+    "longitude" : 150.93288999999999,
+    "latitude" : -33.771697000000003,
+    "point_in_time" : "2018-05-13 23:28:24 +0000",
+    "altitude" : 3931
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5eba 490c02e3 40c07d3f 355ebadd 62400000 00000026 ae40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 212.09999999999999,
+    "longitude" : 150.92863,
+    "latitude" : -33.773508,
+    "point_in_time" : "2018-05-13 23:28:28 +0000",
+    "altitude" : 3859
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5e4b c8073de3 40c021b0 726891dd 62400000 00000098 ad40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 207.40000000000001,
+    "longitude" : 150.92444399999999,
+    "latitude" : -33.775305000000003,
+    "point_in_time" : "2018-05-13 23:28:32 +0000",
+    "altitude" : 3788
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5ddc 460378e3 40c03d0a d7a370dd 62400000 0000000c ad40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 201.19999999999999,
+    "longitude" : 150.92043000000001,
+    "latitude" : -33.777143000000002,
+    "point_in_time" : "2018-05-13 23:28:36 +0000",
+    "altitude" : 3718
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc1ca a145b6e3 40c0d34d 621058dd 62400000 00000082 ac40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 196.09999999999999,
+    "longitude" : 150.91661199999999,
+    "latitude" : -33.779046000000001,
+    "point_in_time" : "2018-05-13 23:28:40 +0000",
+    "altitude" : 3649
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8716 d9cef7e3 40c0f0a7 c64b37dd 62400000 000000fc ab40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 192.80000000000001,
+    "longitude" : 150.91294199999999,
+    "latitude" : -33.781001000000003,
+    "point_in_time" : "2018-05-13 23:28:44 +0000",
+    "altitude" : 3582
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4e62 105839e4 40c00c02 2b8716dd 62400000 00000074 ab40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 191.09999999999999,
+    "longitude" : 150.90937,
+    "latitude" : -33.782994000000002,
+    "point_in_time" : "2018-05-13 23:28:48 +0000",
+    "altitude" : 3514
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d14ae 47e17ae4 40c0a245 b6f3fddc 62400000 000000ee aa40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 190.69999999999999,
+    "longitude" : 150.905845,
+    "latitude" : -33.785009000000002,
+    "point_in_time" : "2018-05-13 23:28:52 +0000",
+    "altitude" : 3447
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010ddbf9 7e6abce4 40c0be9f 1a2fdddc 62400000 00000068 aa40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 191.90000000000001,
+    "longitude" : 150.90231800000001,
+    "latitude" : -33.787033000000001,
+    "point_in_time" : "2018-05-13 23:28:56 +0000",
+    "altitude" : 3380
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d05a3 923a01e5 40c054e3 a59bc4dc 62400000 000000e2 a940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 194.19999999999999,
+    "longitude" : 150.89873700000001,
+    "latitude" : -33.789051000000001,
+    "point_in_time" : "2018-05-13 23:29:00 +0000",
+    "altitude" : 3313
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dccee c9c342e5 40c0713d 0ad7a3dc 62400000 0000005a a940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 196.09999999999999,
+    "longitude" : 150.89508499999999,
+    "latitude" : -33.791055999999998,
+    "point_in_time" : "2018-05-13 23:29:04 +0000",
+    "altitude" : 3245
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d2fdd 240681e5 40c08d97 6e1283dc 62400000 000000d0 a840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 197.90000000000001,
+    "longitude" : 150.89136999999999,
+    "latitude" : -33.793047999999999,
+    "point_in_time" : "2018-05-13 23:29:08 +0000",
+    "altitude" : 3176
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010df628 5c8fc2e5 40c023db f97e6adc 62400000 00000046 a840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 199.19999999999999,
+    "longitude" : 150.88760400000001,
+    "latitude" : -33.795028000000002,
+    "point_in_time" : "2018-05-13 23:29:12 +0000",
+    "altitude" : 3107
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dbc74 931804e6 40c03f35 5eba49dc 62400000 000000ba a740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 200.19999999999999,
+    "longitude" : 150.88379699999999,
+    "latitude" : -33.796995000000003,
+    "point_in_time" : "2018-05-13 23:29:16 +0000",
+    "altitude" : 3037
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d2063 ee5a42e6 40c05c8f c2f528dc 62400000 0000002e a740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 200.80000000000001,
+    "longitude" : 150.87996100000001,
+    "latitude" : -33.798949999999998,
+    "point_in_time" : "2018-05-13 23:29:20 +0000",
+    "altitude" : 2967
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de6ae 25e483e6 40c079e9 263108dc 62400000 000000a0 a640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 201,
+    "longitude" : 150.87610799999999,
+    "latitude" : -33.800891999999997,
+    "point_in_time" : "2018-05-13 23:29:24 +0000",
+    "altitude" : 2896
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d499d 8026c2e6 40c09643 8b6ce7db 62400000 00000012 a640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 200.59999999999999,
+    "longitude" : 150.87224800000001,
+    "latitude" : -33.802821999999999,
+    "point_in_time" : "2018-05-13 23:29:28 +0000",
+    "altitude" : 2825
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dac8b db6800e7 40c0b29d efa7c6db 62400000 00000082 a540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 199.80000000000001,
+    "longitude" : 150.868392,
+    "latitude" : -33.804740000000002,
+    "point_in_time" : "2018-05-13 23:29:32 +0000",
+    "altitude" : 2753
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d107a 36ab3ee7 40c048e1 7a14aedb 62400000 000000f2 a440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 198.69999999999999,
+    "longitude" : 150.86455100000001,
+    "latitude" : -33.806646000000001,
+    "point_in_time" : "2018-05-13 23:29:36 +0000",
+    "altitude" : 2681
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7368 91ed7ce7 40c0643b df4f8ddb 62400000 00000062 a440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 197.09999999999999,
+    "longitude" : 150.860736,
+    "latitude" : -33.808539000000003,
+    "point_in_time" : "2018-05-13 23:29:40 +0000",
+    "altitude" : 2609
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd656 ec2fbbe7 40c08195 438b6cdb 62400000 000000d2 a340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 195.19999999999999,
+    "longitude" : 150.85695999999999,
+    "latitude" : -33.810417999999999,
+    "point_in_time" : "2018-05-13 23:29:44 +0000",
+    "altitude" : 2537
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d3945 4772f9e7 40c09eef a7c64bdb 62400000 00000044 a340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 192.80000000000001,
+    "longitude" : 150.85323099999999,
+    "latitude" : -33.812285000000003,
+    "point_in_time" : "2018-05-13 23:29:48 +0000",
+    "altitude" : 2466
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d39d6 c56d34e8 40c03333 333333db 62400000 000000b6 a240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 190.69999999999999,
+    "longitude" : 150.84955099999999,
+    "latitude" : -33.814138999999997,
+    "point_in_time" : "2018-05-13 23:29:52 +0000",
+    "altitude" : 2395
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9cc4 20b072e8 40c0508d 976e12db 62400000 0000002a a240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 189.09999999999999,
+    "longitude" : 150.845912,
+    "latitude" : -33.815983000000003,
+    "point_in_time" : "2018-05-13 23:29:56 +0000",
+    "altitude" : 2325
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9b55 9fabade8 40c06de7 fba9f1da 62400000 0000009e a140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 187.80000000000001,
+    "longitude" : 150.84230500000001,
+    "latitude" : -33.817816000000001,
+    "point_in_time" : "2018-05-13 23:30:00 +0000",
+    "altitude" : 2255
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9be6 1da7e8e8 40c0022b 8716d9da 62400000 00000014 a140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 186.80000000000001,
+    "longitude" : 150.83872199999999,
+    "latitude" : -33.819640999999997,
+    "point_in_time" : "2018-05-13 23:30:04 +0000",
+    "altitude" : 2186
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfed4 78e926e9 40c01f85 eb51b8da 62400000 0000008c a040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 186.40000000000001,
+    "longitude" : 150.83515199999999,
+    "latitude" : -33.821460000000002,
+    "point_in_time" : "2018-05-13 23:30:08 +0000",
+    "altitude" : 2118
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfe65 f7e461e9 40c0b4c8 76be9fda 62400000 00000006 a040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 186,
+    "longitude" : 150.83158800000001,
+    "latitude" : -33.823272000000003,
+    "point_in_time" : "2018-05-13 23:30:12 +0000",
+    "altitude" : 2051
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfdf6 75e09ce9 40c0d122 dbf97eda 62400000 00000008 9f40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 185.80000000000001,
+    "longitude" : 150.828025,
+    "latitude" : -33.825079000000002,
+    "point_in_time" : "2018-05-13 23:30:16 +0000",
+    "altitude" : 1986
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfd87 f4dbd7e9 40c0ee7c 3f355eda 62400000 00000000 9e40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 185.40000000000001,
+    "longitude" : 150.824466,
+    "latitude" : -33.826880000000003,
+    "point_in_time" : "2018-05-13 23:30:20 +0000",
+    "altitude" : 1920
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfc18 73d712ea 40c083c0 caa145da 62400000 000000f8 9c40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 185.09999999999999,
+    "longitude" : 150.82091,
+    "latitude" : -33.828673999999999,
+    "point_in_time" : "2018-05-13 23:30:24 +0000",
+    "altitude" : 1854
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfca9 f1d24dea 40c0a01a 2fdd24da 62400000 000000ec 9b40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 184.69999999999999,
+    "longitude" : 150.81736000000001,
+    "latitude" : -33.830458999999998,
+    "point_in_time" : "2018-05-13 23:30:28 +0000",
+    "altitude" : 1787
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d98dd 938785ea 40c0355e ba490cda 62400000 000000d8 9a40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 184.09999999999999,
+    "longitude" : 150.813816,
+    "latitude" : -33.832236000000002,
+    "point_in_time" : "2018-05-13 23:30:32 +0000",
+    "altitude" : 1718
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d986e 1283c0ea 40c052b8 1e85ebd9 62400000 000000bc 9940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 183.30000000000001,
+    "longitude" : 150.810281,
+    "latitude" : -33.834001999999998,
+    "point_in_time" : "2018-05-13 23:30:36 +0000",
+    "altitude" : 1647
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d97ff 907efbea 40c0e7fb a9f1d2d9 62400000 00000098 9840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 181.59999999999999,
+    "longitude" : 150.80676600000001,
+    "latitude" : -33.835752999999997,
+    "point_in_time" : "2018-05-13 23:30:40 +0000",
+    "altitude" : 1574
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d3333 333333eb 40c00456 0e2db2d9 62400000 00000074 9740>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 178.40000000000001,
+    "longitude" : 150.80329699999999,
+    "latitude" : -33.837477,
+    "point_in_time" : "2018-05-13 23:30:44 +0000",
+    "altitude" : 1501
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dcf66 d5e76aeb 40c09a99 999999d9 62400000 00000050 9640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 174.19999999999999,
+    "longitude" : 150.79989599999999,
+    "latitude" : -33.839165000000001,
+    "point_in_time" : "2018-05-13 23:30:48 +0000",
+    "altitude" : 1428
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d083d 9b559feb 40c02fdd 240681d9 62400000 00000034 9540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 168.69999999999999,
+    "longitude" : 150.79659000000001,
+    "latitude" : -33.840806000000001,
+    "point_in_time" : "2018-05-13 23:30:52 +0000",
+    "altitude" : 1357
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4013 61c3d3eb 40c04c37 894160d9 62400000 00000024 9440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 161.90000000000001,
+    "longitude" : 150.79340300000001,
+    "latitude" : -33.842388999999997,
+    "point_in_time" : "2018-05-13 23:30:56 +0000",
+    "altitude" : 1289
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d158c 4aea04ec 40c0e17a 14ae47d9 62400000 00000028 9340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 154.30000000000001,
+    "longitude" : 150.790357,
+    "latitude" : -33.843904000000002,
+    "point_in_time" : "2018-05-13 23:31:00 +0000",
+    "altitude" : 1226
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d87a7 57ca32ec 40c077be 9f1a2fd9 62400000 0000003c 9240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 147,
+    "longitude" : 150.78745799999999,
+    "latitude" : -33.845348999999999,
+    "point_in_time" : "2018-05-13 23:31:04 +0000",
+    "altitude" : 1167
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010df8c2 64aa60ec 40c085eb 51b81ed9 62400000 00000064 9140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 140.30000000000001,
+    "longitude" : 150.784696,
+    "latitude" : -33.846727999999999,
+    "point_in_time" : "2018-05-13 23:31:08 +0000",
+    "altitude" : 1113
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0681 95438bec 40c01b2f dd2406d9 62400000 0000009c 9040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 134.30000000000001,
+    "longitude" : 150.78205600000001,
+    "latitude" : -33.848047000000001,
+    "point_in_time" : "2018-05-13 23:31:12 +0000",
+    "altitude" : 1063
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d143f c6dcb5ec 40c0295c 8fc2f5d8 62400000 000000c0 8f40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 128.90000000000001,
+    "longitude" : 150.779526,
+    "latitude" : -33.849310000000003,
+    "point_in_time" : "2018-05-13 23:31:16 +0000",
+    "altitude" : 1016
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dbe9f 1a2fddec 40c0be9f 1a2fddd8 62400000 00000058 8e40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 124,
+    "longitude" : 150.77709200000001,
+    "latitude" : -33.850524,
+    "point_in_time" : "2018-05-13 23:31:20 +0000",
+    "altitude" : 971
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d6900 6f8104ed 40c0cdcc ccccccd8 62400000 00000000 8d40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 119.90000000000001,
+    "longitude" : 150.77474100000001,
+    "latitude" : -33.851692,
+    "point_in_time" : "2018-05-13 23:31:24 +0000",
+    "altitude" : 928
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db003 e78c28ed 40c06210 5839b4d8 62400000 000000b8 8b40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 116.40000000000001,
+    "longitude" : 150.77246199999999,
+    "latitude" : -33.852820999999999,
+    "point_in_time" : "2018-05-13 23:31:28 +0000",
+    "altitude" : 887
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010df706 5f984ced 40c0713d 0ad7a3d8 62400000 00000078 8a40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 113.7,
+    "longitude" : 150.770242,
+    "latitude" : -33.853918,
+    "point_in_time" : "2018-05-13 23:31:32 +0000",
+    "altitude" : 847
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d3d0a d7a370ed 40c07f6a bc7493d8 62400000 00000038 8940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 111.40000000000001,
+    "longitude" : 150.768069,
+    "latitude" : -33.854990000000001,
+    "point_in_time" : "2018-05-13 23:31:36 +0000",
+    "altitude" : 807
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d21b0 726891ed 40c08d97 6e1283d8 62400000 00000000 8840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 109.8,
+    "longitude" : 150.76593099999999,
+    "latitude" : -33.856042000000002,
+    "point_in_time" : "2018-05-13 23:31:40 +0000",
+    "altitude" : 768
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d68b3 ea73b5ed 40c09cc4 20b072d8 62400000 000000c8 8640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 109,
+    "longitude" : 150.76381699999999,
+    "latitude" : -33.857081999999998,
+    "point_in_time" : "2018-05-13 23:31:44 +0000",
+    "altitude" : 729
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d4b59 8638d6ed 40c0aaf1 d24d62d8 62400000 00000090 8540>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 108.7,
+    "longitude" : 150.76171500000001,
+    "latitude" : -33.858117,
+    "point_in_time" : "2018-05-13 23:31:48 +0000",
+    "altitude" : 690
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d2eff 21fdf6ed 40c0b81e 85eb51d8 62400000 00000050 8440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 108.3,
+    "longitude" : 150.75962000000001,
+    "latitude" : -33.859149000000002,
+    "point_in_time" : "2018-05-13 23:31:52 +0000",
+    "altitude" : 650
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7502 9a081bee 40c0c74b 378941d8 62400000 00000018 8340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 107.7,
+    "longitude" : 150.75753499999999,
+    "latitude" : -33.860179000000002,
+    "point_in_time" : "2018-05-13 23:31:56 +0000",
+    "altitude" : 611
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d58a8 35cd3bee 40c05c8f c2f528d8 62400000 000000e0 8140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 107.09999999999999,
+    "longitude" : 150.75546299999999,
+    "latitude" : -33.861209000000002,
+    "point_in_time" : "2018-05-13 23:32:00 +0000",
+    "altitude" : 572
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d3c4e d1915cee 40c06abc 749318d8 62400000 000000b0 8040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 106.5,
+    "longitude" : 150.75340700000001,
+    "latitude" : -33.862236000000003,
+    "point_in_time" : "2018-05-13 23:32:04 +0000",
+    "altitude" : 534
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8351 499d80ee 40c079e9 263108d8 62400000 00000020 7f40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 105.7,
+    "longitude" : 150.75136900000001,
+    "latitude" : -33.863264999999998,
+    "point_in_time" : "2018-05-13 23:32:08 +0000",
+    "altitude" : 498
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d66f7 e461a1ee 40c08716 d9cef7d7 62400000 000000f0 7c40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 105,
+    "longitude" : 150.74935199999999,
+    "latitude" : -33.864293000000004,
+    "point_in_time" : "2018-05-13 23:32:12 +0000",
+    "altitude" : 463
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d499d 8026c2ee 40c09643 8b6ce7d7 62400000 000000e0 7a40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 104.40000000000001,
+    "longitude" : 150.747354,
+    "latitude" : -33.865321999999999,
+    "point_in_time" : "2018-05-13 23:32:16 +0000",
+    "altitude" : 430
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d90a0 f831e6ee 40c0a470 3d0ad7d7 62400000 000000d0 7840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 104.2,
+    "longitude" : 150.74536499999999,
+    "latitude" : -33.866352999999997,
+    "point_in_time" : "2018-05-13 23:32:20 +0000",
+    "altitude" : 397
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7446 94f606ef 40c0b29d efa7c6d7 62400000 000000d0 7640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 104.40000000000001,
+    "longitude" : 150.74338,
+    "latitude" : -33.867386000000003,
+    "point_in_time" : "2018-05-13 23:32:24 +0000",
+    "altitude" : 365
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d57ec 2fbb27ef 40c0c1ca a145b6d7 62400000 000000c0 7440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 105,
+    "longitude" : 150.741387,
+    "latitude" : -33.868420999999998,
+    "point_in_time" : "2018-05-13 23:32:28 +0000",
+    "altitude" : 332
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9eef a7c64bef 40c0cff7 53e3a5d7 62400000 00000090 7240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 105.7,
+    "longitude" : 150.73938200000001,
+    "latitude" : -33.869461000000001,
+    "point_in_time" : "2018-05-13 23:32:32 +0000",
+    "altitude" : 297
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8195 438b6cef 40c0dd24 068195d7 62400000 00000040 7040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 106.7,
+    "longitude" : 150.73735300000001,
+    "latitude" : -33.870507000000003,
+    "point_in_time" : "2018-05-13 23:32:36 +0000",
+    "altitude" : 260
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dc898 bb9690ef 40c0ec51 b81e85d7 62400000 000000a0 6b40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 107.5,
+    "longitude" : 150.73530199999999,
+    "latitude" : -33.871555000000001,
+    "point_in_time" : "2018-05-13 23:32:40 +0000",
+    "altitude" : 221
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dab3e 575bb1ef 40c0fa7e 6abc74d7 62400000 000000a0 6640>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 107.7,
+    "longitude" : 150.73324,
+    "latitude" : -33.872604000000003,
+    "point_in_time" : "2018-05-13 23:32:44 +0000",
+    "altitude" : 181
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8fe4 f21fd2ef 40c008ac 1c5a64d7 62400000 000000e0 6140>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 107.5,
+    "longitude" : 150.731176,
+    "latitude" : -33.873648000000003,
+    "point_in_time" : "2018-05-13 23:32:48 +0000",
+    "altitude" : 143
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd5e7 6a2bf6ef 40c017d9 cef753d7 62400000 000000c0 5a40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 106.7,
+    "longitude" : 150.729119,
+    "latitude" : -33.874684999999999,
+    "point_in_time" : "2018-05-13 23:32:52 +0000",
+    "altitude" : 107
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010db98d 06f016f0 40c02506 819543d7 62400000 00000000 5340>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 105.59999999999999,
+    "longitude" : 150.72708,
+    "latitude" : -33.875709999999998,
+    "point_in_time" : "2018-05-13 23:32:56 +0000",
+    "altitude" : 76
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9c33 a2b437f0 40c03333 333333d7 62400000 00000080 4940>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 103.8,
+    "longitude" : 150.72506799999999,
+    "latitude" : -33.876722000000001,
+    "point_in_time" : "2018-05-13 23:33:00 +0000",
+    "altitude" : 51
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7fd9 3d7958f0 40c04260 e5d022d7 62400000 00000000 4040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 101.3,
+    "longitude" : 150.723097,
+    "latitude" : -33.877712000000002,
+    "point_in_time" : "2018-05-13 23:33:04 +0000",
+    "altitude" : 32
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d637f d93d79f0 40c0508d 976e12d7 62400000 00000000 3240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 97.799999999999997,
+    "longitude" : 150.721182,
+    "latitude" : -33.878672999999999,
+    "point_in_time" : "2018-05-13 23:33:08 +0000",
+    "altitude" : 18
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010de3c7 98bb96f0 40c05eba 490c02d7 62400000 00000000 2240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 93.5,
+    "longitude" : 150.71934400000001,
+    "latitude" : -33.879596999999997,
+    "point_in_time" : "2018-05-13 23:33:12 +0000",
+    "altitude" : 9
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d6210 5839b4f0 40c0e5d0 22dbf9d6 62400000 00000000 1040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 88.299999999999997,
+    "longitude" : 150.71759399999999,
+    "latitude" : -33.880474999999997,
+    "point_in_time" : "2018-05-13 23:33:16 +0000",
+    "altitude" : 4
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7ffb 3a70cef0 40c0f4fd d478e9d6 62400000 00000000 0040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 82.200000000000003,
+    "longitude" : 150.71595300000001,
+    "latitude" : -33.881298000000001,
+    "point_in_time" : "2018-05-13 23:33:20 +0000",
+    "altitude" : 2
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9be6 1da7e8f0 40c0022b 8716d9d6 62400000 00000000 0040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 75.400000000000006,
+    "longitude" : 150.71443600000001,
+    "latitude" : -33.882058999999998,
+    "point_in_time" : "2018-05-13 23:33:24 +0000",
+    "altitude" : 2
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5474 2497fff0 40c08941 60e5d0d6 62400000 00000000 0840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 68.799999999999997,
+    "longitude" : 150.71304799999999,
+    "latitude" : -33.882756000000001,
+    "point_in_time" : "2018-05-13 23:33:28 +0000",
+    "altitude" : 3
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010da9a4 4e4013f1 40c01058 39b4c8d6 62400000 00000000 1440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 62.399999999999999,
+    "longitude" : 150.71178399999999,
+    "latitude" : -33.883389000000001,
+    "point_in_time" : "2018-05-13 23:33:32 +0000",
+    "altitude" : 5
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dfed4 78e926f1 40c0986e 1283c0d6 62400000 00000000 1c40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 56.399999999999999,
+    "longitude" : 150.71064200000001,
+    "latitude" : -33.883963000000001,
+    "point_in_time" : "2018-05-13 23:33:36 +0000",
+    "altitude" : 7
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010df0a7 c64b37f1 40c01f85 eb51b8d6 62400000 00000000 2240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 50.5,
+    "longitude" : 150.70961299999999,
+    "latitude" : -33.884478999999999,
+    "point_in_time" : "2018-05-13 23:33:40 +0000",
+    "altitude" : 9
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7e1d 386744f1 40c0a69b c420b0d6 62400000 00000000 2440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 44.899999999999999,
+    "longitude" : 150.70869400000001,
+    "latitude" : -33.88494,
+    "point_in_time" : "2018-05-13 23:33:44 +0000",
+    "altitude" : 10
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d6ff0 85c954f1 40c02db2 9defa7d6 62400000 00000000 2440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 39.799999999999997,
+    "longitude" : 150.70787899999999,
+    "latitude" : -33.885350000000003,
+    "point_in_time" : "2018-05-13 23:33:48 +0000",
+    "altitude" : 10
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9a08 1b9e5ef1 40c0b4c8 76be9fd6 62400000 00000000 2240>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 36.299999999999997,
+    "longitude" : 150.70714799999999,
+    "latitude" : -33.885716000000002,
+    "point_in_time" : "2018-05-13 23:33:52 +0000",
+    "altitude" : 9
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d287e 8cb96bf1 40c03bdf 4f8d97d6 62400000 00000000 1c40>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 34.600000000000001,
+    "longitude" : 150.706467,
+    "latitude" : -33.886059000000003,
+    "point_in_time" : "2018-05-13 23:33:56 +0000",
+    "altitude" : 7
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d5396 218e75f1 40c03bdf 4f8d97d6 62400000 00000000 1440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 34.799999999999997,
+    "longitude" : 150.70580100000001,
+    "latitude" : -33.886394000000003,
+    "point_in_time" : "2018-05-13 23:34:00 +0000",
+    "altitude" : 5
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7dae b6627ff1 40c0c3f5 285c8fd6 62400000 00000000 0840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 36.700000000000003,
+    "longitude" : 150.705116,
+    "latitude" : -33.886738000000001,
+    "point_in_time" : "2018-05-13 23:34:04 +0000",
+    "altitude" : 3
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d0b24 287e8cf1 40c04a0c 022b87d6 62400000 00000000 0040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 40.399999999999999,
+    "longitude" : 150.70437799999999,
+    "latitude" : -33.887109000000002,
+    "point_in_time" : "2018-05-13 23:34:08 +0000",
+    "altitude" : 2
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d9a99 999999f1 40c04a0c 022b87d6 62400000 00000000 f03f>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 45.700000000000003,
+    "longitude" : 150.703551,
+    "latitude" : -33.887523999999999,
+    "point_in_time" : "2018-05-13 23:34:12 +0000",
+    "altitude" : 1
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8b6c e7fba9f1 40c0d122 dbf97ed6 62400000 00000000 0040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 52.100000000000001,
+    "longitude" : 150.70261199999999,
+    "latitude" : -33.887996000000001,
+    "point_in_time" : "2018-05-13 23:34:16 +0000",
+    "altitude" : 2
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d7d3f 355ebaf1 40c05839 b4c876d6 62400000 00000000 0840>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 59.299999999999997,
+    "longitude" : 150.70154299999999,
+    "latitude" : -33.888534,
+    "point_in_time" : "2018-05-13 23:34:20 +0000",
+    "altitude" : 3
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010dd26f 5f07cef1 40c06666 666666d6 62400000 00000000 1040>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 67.299999999999997,
+    "longitude" : 150.70032800000001,
+    "latitude" : -33.889144000000002,
+    "point_in_time" : "2018-05-13 23:34:24 +0000",
+    "altitude" : 4
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010d8bfd 65f7e4f1 40c0ee7c 3f355ed6 62400000 00000000 1440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 76.200000000000003,
+    "longitude" : 150.698949,
+    "latitude" : -33.889839000000002,
+    "point_in_time" : "2018-05-13 23:34:28 +0000",
+    "altitude" : 5
+  },
+  {
+    "SP_GEOMETRY" : "<e6100000 010da7e8 482efff1 40c0fca9 f1d24dd6 62400000 00000000 1440>",
+    "I_AIRCRAFT_MOVEMENT_ID" : 10138117,
+    "airspeed" : 86.099999999999994,
+    "longitude" : 150.69739100000001,
+    "latitude" : -33.890622999999998,
+    "point_in_time" : "2018-05-13 23:34:32 +0000",
+    "altitude" : 5
+  }
+]

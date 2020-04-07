@@ -1,0 +1,290 @@
+[
+        {
+            "IA_MONITOR_ID": "1",
+            "latitude": "-33.873325",
+            "longitude": "150.730755",
+            "code": "VIRTUAL 1"
+        },
+        {
+            "IA_MONITOR_ID": "2",
+            "latitude": "-33.867743",
+            "longitude": "150.744722",
+            "code": "VIRTUAL 2"
+        },
+        {
+            "IA_MONITOR_ID": "3",
+            "latitude": "-33.859584",
+            "longitude": "150.763344",
+            "code": "VIRTUAL 3"
+        },
+        {
+            "IA_MONITOR_ID": "4",
+            "latitude": "-33.842981",
+            "longitude": "150.79214",
+            "code": "VIRTUAL 4"
+        },
+        {
+            "IA_MONITOR_ID": "5",
+            "latitude": "-33.830958",
+            "longitude": "150.818349",
+            "code": "VIRTUAL 5"
+        },
+        {
+            "IA_MONITOR_ID": "6",
+            "latitude": "-33.855147",
+            "longitude": "150.733687",
+            "code": "VIRTUAL 6"
+        },
+        {
+            "IA_MONITOR_ID": "7",
+            "latitude": "-33.849708",
+            "longitude": "150.751274",
+            "code": "VIRTUAL 7"
+        },
+        {
+            "IA_MONITOR_ID": "8",
+            "latitude": "-33.836254",
+            "longitude": "150.781277",
+            "code": "VIRTUAL 8"
+        },
+        {
+            "IA_MONITOR_ID": "9",
+            "latitude": "-33.832962",
+            "longitude": "150.758516",
+            "code": "VIRTUAL 9"
+        },
+        {
+            "IA_MONITOR_ID": "10",
+            "latitude": "-33.837256",
+            "longitude": "150.746446",
+            "code": "VIRTUAL 10"
+        },
+        {
+            "IA_MONITOR_ID": "11",
+            "latitude": "-33.846416",
+            "longitude": "150.730238",
+            "code": "VIRTUAL 11"
+        },
+        {
+            "IA_MONITOR_ID": "12",
+            "latitude": "-33.858296",
+            "longitude": "150.800589",
+            "code": "VIRTUAL 12"
+        },
+        {
+            "IA_MONITOR_ID": "13",
+            "latitude": "-33.869317",
+            "longitude": "150.79076",
+            "code": "VIRTUAL 13"
+        },
+        {
+            "IA_MONITOR_ID": "14",
+            "latitude": "-33.880767",
+            "longitude": "150.77869",
+            "code": "VIRTUAL 14"
+        },
+        {
+            "IA_MONITOR_ID": "15",
+            "latitude": "-33.873754",
+            "longitude": "150.833522",
+            "code": "VIRTUAL 15"
+        },
+        {
+            "IA_MONITOR_ID": "16",
+            "latitude": "-33.884918",
+            "longitude": "150.825246",
+            "code": "VIRTUAL 16"
+        },
+        {
+            "IA_MONITOR_ID": "17",
+            "latitude": "-33.898802",
+            "longitude": "150.810417",
+            "code": "VIRTUAL 17"
+        },
+        {
+            "IA_MONITOR_ID": "18",
+            "latitude": "-33.896083",
+            "longitude": "150.685234",
+            "code": "VIRTUAL 18"
+        },
+        {
+            "IA_MONITOR_ID": "19",
+            "latitude": "-33.90281",
+            "longitude": "150.670061",
+            "code": "VIRTUAL 19"
+        },
+        {
+            "IA_MONITOR_ID": "20",
+            "latitude": "-33.911112",
+            "longitude": "150.652473",
+            "code": "VIRTUAL 20"
+        },
+        {
+            "IA_MONITOR_ID": "21",
+            "latitude": "-33.919985",
+            "longitude": "150.631264",
+            "code": "VIRTUAL 21"
+        },
+        {
+            "IA_MONITOR_ID": "22",
+            "latitude": "-33.912113",
+            "longitude": "150.617987",
+            "code": "VIRTUAL 22"
+        },
+        {
+            "IA_MONITOR_ID": "23",
+            "latitude": "-33.902523",
+            "longitude": "150.610401",
+            "code": "VIRTUAL 23"
+        },
+        {
+            "IA_MONITOR_ID": "24",
+            "latitude": "-33.892218",
+            "longitude": "150.599882",
+            "code": "VIRTUAL 24"
+        },
+        {
+            "IA_MONITOR_ID": "25",
+            "latitude": "-33.877475",
+            "longitude": "150.58833",
+            "code": "VIRTUAL 25"
+        },
+        {
+            "IA_MONITOR_ID": "26",
+            "latitude": "-33.935443",
+            "longitude": "150.646783",
+            "code": "VIRTUAL 26"
+        },
+        {
+            "IA_MONITOR_ID": "27",
+            "latitude": "-33.94761",
+            "longitude": "150.656611",
+            "code": "VIRTUAL 27"
+        },
+        {
+            "IA_MONITOR_ID": "28",
+            "latitude": "-33.963068",
+            "longitude": "150.671268",
+            "code": "VIRTUAL 28"
+        },
+        {
+            "IA_MONITOR_ID": "29",
+            "latitude": "-33.940596",
+            "longitude": "150.685579",
+            "code": "VIRTUAL 29"
+        },
+        {
+            "IA_MONITOR_ID": "30",
+            "latitude": "-33.927571",
+            "longitude": "150.667819",
+            "code": "VIRTUAL 30"
+        },
+        {
+            "IA_MONITOR_ID": "31",
+            "latitude": "-33.898802",
+            "longitude": "150.641265",
+            "code": "VIRTUAL 31"
+        },
+        {
+            "IA_MONITOR_ID": "32",
+            "latitude": "-33.88406",
+            "longitude": "150.628333",
+            "code": "VIRTUAL 32"
+        },
+        {
+            "IA_MONITOR_ID": "33",
+            "latitude": "-33.862017",
+            "longitude": "150.614194",
+            "code": "VIRTUAL 33"
+        },
+        {
+            "IA_MONITOR_ID": "34",
+            "latitude": "-33.936159",
+            "longitude": "150.700925",
+            "code": "VIRTUAL 34"
+        },
+        {
+            "IA_MONITOR_ID": "35",
+            "latitude": "-33.92614",
+            "longitude": "150.714202",
+            "code": "VIRTUAL 35"
+        },
+        {
+            "IA_MONITOR_ID": "36",
+            "latitude": "-33.977667",
+            "longitude": "150.626954",
+            "code": "VIRTUAL 36"
+        },
+        {
+            "IA_MONITOR_ID": "37",
+            "latitude": "-33.980816",
+            "longitude": "150.59902",
+            "code": "VIRTUAL 37"
+        },
+        {
+            "IA_MONITOR_ID": "38",
+            "latitude": "-33.989118",
+            "longitude": "150.561776",
+            "code": "VIRTUAL 38"
+        },
+        {
+            "IA_MONITOR_ID": "39",
+            "latitude": "-34.013164",
+            "longitude": "150.5166",
+            "code": "VIRTUAL 39"
+        },
+        {
+            "IA_MONITOR_ID": "40",
+            "latitude": "-34.002859",
+            "longitude": "150.596262",
+            "code": "VIRTUAL 40"
+        },
+        {
+            "IA_MONITOR_ID": "41",
+            "latitude": "-33.899518",
+            "longitude": "150.856628",
+            "code": "VIRTUAL 41"
+        },
+        {
+            "IA_MONITOR_ID": "42",
+            "latitude": "-33.918984",
+            "longitude": "150.909735",
+            "code": "VIRTUAL 42"
+        },
+        {
+            "IA_MONITOR_ID": "43",
+            "latitude": "-33.783009",
+            "longitude": "150.912494",
+            "code": "VIRTUAL 43"
+        },
+        {
+            "IA_MONITOR_ID": "44",
+            "latitude": "-33.768123",
+            "longitude": "150.896976",
+            "code": "VIRTUAL 44"
+        },
+        {
+            "IA_MONITOR_ID": "45",
+            "latitude": "-33.771558",
+            "longitude": "150.838695",
+            "code": "VIRTUAL 45"
+        },
+        {
+            "IA_MONITOR_ID": "46",
+            "latitude": "-33.776711",
+            "longitude": "150.816279",
+            "code": "VIRTUAL 46"
+        },
+        {
+            "IA_MONITOR_ID": "47",
+            "latitude": "-33.796463",
+            "longitude": "150.911804",
+            "code": "VIRTUAL 47"
+        },
+        {
+            "IA_MONITOR_ID": "48",
+            "latitude": "-33.787303",
+            "longitude": "150.922495",
+            "code": "VIRTUAL 48"
+        }
+    ]

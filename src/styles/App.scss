@@ -1,0 +1,35 @@
+// Typography
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+$font-family-sans-serif: "Raleway", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+$text-color: #636b6f;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66D9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+$theme-colors: (
+  "primary": #4285f4,
+  "success": #34a853,
+  "danger": #ea4335,
+  "warning": #fbbc05,
+  "secondary": #878787
+);
+
+@import '../../node_modules/react-circular-progressbar/dist/styles.css';
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import 'Generic.scss';
+@import 'Card.scss';
+@import 'Tab.scss';
+@import 'Table.scss';
+@import 'Modal.scss';
+@import 'Panels.scss';

@@ -1,0 +1,106 @@
+html, body {
+  height: 100%;
+}
+
+.login {
+  width: 400px;
+  border-top-width: 3px;
+
+  .logo {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+#root {
+  height: 100%;
+}
+
+.listview {
+  max-width: 350px;
+  background-color: black;
+  color: white;
+  height: 100%;
+  font-family: arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.listview .header {
+  text-align: center;
+  font-family: "Raleway";
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.listview select {
+  background-color: black;
+  color: white;
+}
+
+.listview .header .logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  border: 1px solid white;
+}
+
+.listview .section-header {
+  border-bottom: 2px solid #666666;
+  padding: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 30px;
+}
+
+.listview .section-title {
+  color: #bbbbbb;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.listview .section-tool {
+  font-size: 12px;
+  color: #4285f4;
+}
+
+.listview ul {
+  margin: 0;
+  list-style: none;
+}
+
+.listview ul li {
+  background-color: #333333;
+  margin: 0;
+  padding: 10px;
+  padding-left: 15px;
+  font-size: 12px;
+  font-weight: normal;
+  border-bottom: 1px solid black;
+  cursor: pointer;
+}
+
+.listview ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.listview ul li.menu-item {
+  font-size: 15px;
+  background-color: #111111;
+}
+
+.listview ul li.menu-item span {
+  color: #cccccc;
+  font-family: "Raleway";
+}
+
+.listview ul li.menu-item-active {
+  background-color: #333333;
+}
+
+.CircularProgressbar .CircularProgressbar-path {
+  stroke: #c73e92;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}

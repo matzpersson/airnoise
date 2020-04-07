@@ -1,0 +1,68 @@
+{
+  "name": "AirNoise",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-regular-svg-icons": "^5.12.0",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@react-google-maps/api": "^1.8.2",
+    "animated-number-react": "0.0.2",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.4.1",
+    "d3-scale": "^3.2.1",
+    "date-fns": "^2.9.0",
+    "gulp": "^4.0.2",
+    "moment": "^2.24.0",
+    "node-sass": "^4.13.1",
+    "node-sass-chokidar": "^1.4.0",
+    "npm-run-all": "^4.1.5",
+    "ol": "^6.1.1",
+    "react": "^16.12.0",
+    "react-animated-number": "^0.4.4",
+    "react-circular-progressbar": "^2.0.3",
+    "react-compound-slider": "^2.5.0",
+    "react-dates": "^20.3.0",
+    "react-dom": "^16.12.0",
+    "react-epic-spinners": "^0.2.1",
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.3.0",
+    "react-sliding-side-panel": "^1.0.9",
+    "react-vis": "^1.11.7",
+    "reactstrap": "^6.4.0",
+    "recharts": "^1.8.5",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^5.1.1",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.4.0",
+    "victory": "^33.1.7"
+  },
+  "scripts": {
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "start-js": "react-scripts start",
+    "start": "npm-run-all -p watch-css start-js",
+    "build-js": "react-scripts build",
+    "build": "npm-run-all build-css build-js",
+    "deploy": "./deploy.sh",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@fortawesome/fontawesome-pro": "^5.12.0",
+    "@fortawesome/pro-light-svg-icons": "^5.12.0",
+    "@fortawesome/pro-regular-svg-icons": "^5.12.0"
+  }
+}
