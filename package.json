@@ -9,7 +9,7 @@
     "@fortawesome/react-fontawesome": "^0.1.8",
     "@react-google-maps/api": "^1.8.2",
     "animated-number-react": "0.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "d3-scale": "^3.2.1",
     "date-fns": "^2.9.0",
